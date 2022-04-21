@@ -13,8 +13,7 @@
  <img src="https://img.shields.io/badge/Python-FFDD00?style=for-the-badge&logo=python&logoColor=blue"/></br>
 </div>
 
-## Screenshot
-![lk](https://user-images.githubusercontent.com/87601386/161434262-e5883715-c526-4f16-857e-5474ec45211d.png)
+
 
 ## Methods
 ```sh
@@ -39,18 +38,19 @@
 ```
 
 
-## Videos
-[![](https://user-images.githubusercontent.com/87601386/161339371-b6dfaa8f-1cf2-41d1-85c1-d82cdd98def1.png)](https://www.youtube.com/watch?v=MPKdfhPeLeE)
+
 
 ## Usage on Linux
 ```sh
 You must use Python 3.9 or higher.
-1. Install python3 modules
+1.git clone git@github.com:NosTaMod/NosTa_Ddos.git
+2. cd NosTa_Ddos
+3. Install python3 modules
  - pip3 install -r requirements.txt
               OR
  - pip install -r requirements.txt
 
-2. Install chrome ( or update lastest )
+4. Install chrome ( or update lastest )
 - wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 - apt-get install ./google-chrome-stable_current_amd64.deb
 ```
