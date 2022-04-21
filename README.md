@@ -1,12 +1,7 @@
 <div align=center>
  
-# KARMA DDoS
- <p>
- <img src="https://img.shields.io/github/stars/HyukIsBack/KARMA-DDoS?color=%23DF0067&style=for-the-badge"/> &nbsp;
- <img src="https://img.shields.io/github/forks/HyukIsBack/KARMA-DDoS?color=%239999FF&style=for-the-badge"/> &nbsp;
- <img src="https://img.shields.io/github/license/HyukIsBack/KARMA-DDoS?color=%23E8E8E8&style=for-the-badge"/> &nbsp;
- 
-</p>
+# NosTa DDoS
+
  DDoS Attack Panel includes CloudFlare Bypass (UAM, CAPTCHA, BFM, etc..)<br/><br/>
  Don't attack any websites you don't own it<br/>
  This was created for educational purposes<br/>
@@ -62,5 +57,5 @@ You must use Python 3.9 or higher.
 
 ## Contact Developer
 ```sh
- Telegram: @zjfoq394
+ Telegram: @CursedCyber
 ```
