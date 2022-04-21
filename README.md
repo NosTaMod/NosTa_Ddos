@@ -43,7 +43,7 @@
 ## Usage on Linux
 ```sh
 You must use Python 3.9 or higher.
-1.git clone git@github.com:NosTaMod/NosTa_Ddos.git
+1.git clone https://github.com/NosTaMod/NosTa_Ddos.git
 2. cd NosTa_Ddos
 3. Install python3 modules
  - pip3 install -r requirements.txt
